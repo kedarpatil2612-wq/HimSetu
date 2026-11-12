@@ -1,0 +1,37 @@
+{
+  "962dbcce-e32f-46de-af00-8c43f597eae4": {
+    "dataset_id": "962dbcce-e32f-46de-af00-8c43f597eae4",
+    "filename": "Diviner Sample Test",
+    "original_path": "C:\\Users\\Kedar Patil\\.gemini\\antigravity\\scratch\\selenos\\data\\raw\\diviner_sample_test.csv",
+    "format": "CSV",
+    "data_category": "TABULAR",
+    "source_attribution": "Diviner Sample Test",
+    "file_size_bytes": 51,
+    "upload_timestamp": "2026-10-24T20:18:56.541515+00:00",
+    "validation_status": "VALID",
+    "validation_notes": [],
+    "spatial_info": null,
+    "tabular_info": {
+      "row_count": 2,
+      "column_count": 3,
+      "column_names": [
+        "lat",
+        "lon",
+        "temperature"
+      ],
+      "numeric_columns": [
+        "lat",
+        "lon",
+        "temperature"
+      ]
+    },
+    "vector_info": null,
+    "extra": {
+      "tags": [
+        "diviner",
+        "thermal"
+      ]
+    },
+    "processing_status": "VALIDATED"
+  }
+}

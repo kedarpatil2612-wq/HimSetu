@@ -1,6 +1,15 @@
 # 🌕 HimSetu Mini
 ### AI-Based Lunar Ice Probability Prediction and Visualization System
+
 > **College Mini Project** | Derived from the HimSetu Mega Project (ISRO Hackathon PS8)
+
+<p align="center">
+
+[🚀 **LAUNCH LIVE DEMO**](https://himsetu-cgpr6hrdbqvtjbkdkpmurr.streamlit.app/)
+
+</p>
+
+**Live Application:** https://himsetu-fz4jjs9snprvftb6ol8k6w.streamlit.app/
 
 ---
 
@@ -63,7 +72,7 @@ python -m pytest tests/ mini/tests/ -v
 
 ## 📁 Project Structure
 
-```
+```text
 HimSetu/
 ├── mini/                        ← Mini Project (this demo)
 │   ├── app.py                   ← Streamlit dashboard (5 tabs)

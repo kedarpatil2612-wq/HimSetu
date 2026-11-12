@@ -9,7 +9,7 @@
 
 </p>
 
-**Live Application:** https://himsetu-fz4jjs9snprvftb6ol8k6w.streamlit.app/
+**Live Application:**( https://himsetu-cgpr6hrdbqvtjbkdkpmurr.streamlit.app/)
 
 ---
 
